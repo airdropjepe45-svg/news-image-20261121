@@ -1,8 +1,8 @@
 # THE WORLD — 21 November 2026
 
-[![Bounty: news-image-20261121](https://make.fun/badge/bounty/news-image-20261121)](https://make.fun/bounty/news-image-20261121?ref=89fdt4kt)
-[![Entry: airdropjepe45-svg/news-image-20261121](https://make.fun/badge/entry/airdropjepe45-svg/news-image-20261121)](https://make.fun/bounty/news-image-20261121?ref=89fdt4kt)
-[![Made for make.fun](https://make.fun/badge/made-for-make-fun)](https://make.fun/bounty/news-image-20261121?ref=89fdt4kt)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/airdropjepe45-svg/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/airdropjepe45-svg/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A newspaper-style front page summing up world news of Saturday 21 November 2026.
 Every story carries its source in the image itself (TBS, AFP, AP, WSJ, Reuters,
